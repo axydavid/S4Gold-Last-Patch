@@ -7,10 +7,10 @@ No manual hex editing, no config headaches — just copy and play.
 
 ## Features
 
-- **Automatic Resolution Detection** — the game detects your display resolution at startup and patches itself to match. No more 800×600 in a tiny window.
+- **Automatic Resolution Detection** — the game detects your display resolution at startup and patches itself to match.
 - **All Native Resolutions Supported** — works on standard monitors, ultrawides, and the **Steam Deck** (1280×800) out of the box.
-- **Full Viewport Rendering** — fixes the viewport so the game renders properly edge-to-edge, including under the left UI panel. No more black margins.
-- **Video & Main Menu Stretching** — intro videos and the main menu automatically scale to fill your screen. No resolution switching, no corner-boxed 640×480 playback.
+- **Full Viewport Rendering** — fixes the viewport so the game renders properly edge-to-edge, including under the left UI panel.
+- **Video & Main Menu Stretching** — intro videos and the main menu automatically scale to fill your screen. No resolution switching.
 - **Smooth Shadow Patch** — replaces the original checkerboard stipple shadows with smooth 50% darkened shadows.
 - **Linux / Steam Deck Fixes** — tested and working under Proton. Includes DPI handling tweaks specific to non-Windows environments.
 - **Modern Windows Compatibility** — fixes for Windows 10/11 display scaling, DirectDraw compatibility, and high-DPI displays.
