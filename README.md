@@ -54,6 +54,7 @@ EnableLog = 0
 ## Roadmap
 
 - **DX11 Rendering Engine** — complete binary-patch replacement of the GfxEngine.dll rendering backend from DirectDraw to DirectX 11.
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/9b27d571-ab37-48e7-a96b-55e1dc940938" />
 
 ---
 
