@@ -23,7 +23,7 @@ No manual hex editing, no config headaches — just copy and play.
 ---
 
 ## Screenshots
-<img width="1440" height="900" alt="s4pc" src="https://github.com/user-attachments/assets/fff56d0a-8d0e-4d02-94a6-8da9b202e8ff" />
+<img width="1437" height="900" alt="s4pc" src="https://github.com/user-attachments/assets/cc5ed925-cff7-401d-9f71-5c3ff6962f88" />
 <img width="1140" height="596" alt="sds4" src="https://github.com/user-attachments/assets/f2c08b99-ef19-4706-84c1-a56c03349ecc" />
 
 ---
