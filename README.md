@@ -72,6 +72,8 @@ EnableLog = 0
 | Linux (Proton) | ✅ Working |
 | Steam Deck | ✅ Working |
 | GOG GOLD V2.50.1516 | ✅ Tested |
+| CD retail (V2.50.1516) | ✅ Compatible |
+| History Edition | ❌ Incompatible |
 
 ---
 
