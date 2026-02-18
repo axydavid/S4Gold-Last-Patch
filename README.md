@@ -17,7 +17,7 @@ No manual hex editing, no config headaches, just copy and play.
 ## Installation
 
 1. Download the latest release.
-2. Copy all files into your **Settlers IV root folder** (where `S4.exe` lives).
+2. Copy all files into your **Settlers IV /Exe folder** (where `S4_Main.exe` lives).
 3. Launch the game. Everything just works.
 
 ---
