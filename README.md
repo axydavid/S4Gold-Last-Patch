@@ -30,30 +30,34 @@ No manual hex editing, no config headaches — just copy and play.
 
 ## Configuration
 
-All options are in **`Exe/s4_dev.ini`**. Defaults work for most setups.
+All options are in **`Exe/s4dev.ini`**. Defaults work for most setups.
 
 ```ini
-[Resolution]
+[Resolution Patches]
+; ResolutionPatch: override default resolutions with auto-detected or INI values.
+ResolutionPatch = 1
+; DPIAware: use physical resolution (1) or DPI-scaled logical resolution (0) Like History Edition.
+DPIAware = 0
 ; Set Width and Height to 0 for auto-detection (recommended). Set explicit values to override auto-detection.
 Width = 0
 Height = 0
 
-[Patches]
-; DPIAware: call SetProcessDPIAware so Windows reports true pixel resolution instead of DPI-scaled values. 
-DPIAware = 0
-; VersionCheckBypass: skips the multiplayer version number comparison
-; File-integrity CRC checks (Gfx, Script, Config) are NOT affected.
+[Other Patches]
+; VersionCheckBypass: skip multiplayer version check (CRC checks unaffected).
 VersionCheckBypass = 1
+; SkipIntros: skip BB_Logo, UbiSoft_Logo, S4 intro videos and go straight to menu.
+SkipIntros = 1
 
 [Debug]
 EnableLog = 0
+
 ```
 
 ---
 
 ## Roadmap
 
-- **DX11 Rendering Engine** — complete binary-patch replacement of the GfxEngine.dll rendering backend from DirectDraw to DirectX 11. As you can see, it needs more tuning.
+- **DX11 Rendering Engine** — complete binary-patch replacement of the GfxEngine.dll rendering backend from DirectDraw to DirectX 11. As you can see, it needs more fixing.
 <img width="2880" height="1800" alt="s4dx11" src="https://github.com/user-attachments/assets/a987fb5e-92de-4e13-807d-879602c9d1ae" />
 
 ---
