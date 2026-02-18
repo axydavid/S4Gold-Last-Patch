@@ -1,4 +1,4 @@
-# The Settlers IV — Unofficial Patch v2.60.0001
+# The Settlers IV: Gold Edition — Best Unofficial Patch
 
 A drop-in compatibility and quality-of-life patch for **The Settlers IV GOLD Edition** (GOG / V2.50.1516).  
 No manual hex editing, no config headaches — just copy and play.
